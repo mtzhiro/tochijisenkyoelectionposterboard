@@ -13,3 +13,6 @@ https://www.city.machida.tokyo.jp/shisei/senkyo/senkyoshiryo/keizizyou.html
 　　Geocoding.jp
 　　https://www.geocoding.jp/
 
+
+
+shorten URL https://0i.pt/nhk10
