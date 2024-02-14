@@ -1,0 +1,2 @@
+# tochijisenkyoelectionposterboard
+2024年東京都知事選ポスター掲示板の場所と地価の情報の有効活用
